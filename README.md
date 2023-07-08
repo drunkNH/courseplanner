@@ -1,6 +1,9 @@
 > Web application for a Course planner
+
 > A full detailed document is found at app/courseplanner/README.pdf
+
 > Made using py4web in UCSC CSE 183
+
 # Course Planner
 
 ### Team Members
