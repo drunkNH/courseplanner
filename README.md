@@ -9,9 +9,9 @@
 ### Team Members
 | Name | Email | Github Username |
 |------|-------| --------------- |
-| Neeha Ravula | nravula@ucsc.edu | neeharavula |
-| Vincent Jay Olandria | volandri@ucsc.edu | volandri |
-| Jasmin Perez | jpere131@ucsc.edu | jpere131 |
-| Colby Frey | csfrey@ucsc.edu | ColbyFrey |
-| Jeffrey Gu | jrgu@ucsc.edu | drunkNH |
+| Neeha Ravula | neeharavula |
+| Vincent Jay Olandria | volandri |
+| Jasmin Perez | jpere131 |
+| Colby Frey | ColbyFrey |
+| Jeffrey Gu | drunkNH |
 
