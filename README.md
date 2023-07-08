@@ -7,8 +7,8 @@
 # Course Planner
 
 ### Team Members
-| Name | Email | Github Username |
-|------|-------| --------------- |
+| Name | Github Username |
+|------| --------------- |
 | Neeha Ravula | neeharavula |
 | Vincent Jay Olandria | volandri |
 | Jasmin Perez | jpere131 |
