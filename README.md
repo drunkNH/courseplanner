@@ -13,5 +13,5 @@
 | Vincent Jay Olandria | volandri |
 | Jasmin Perez | jpere131 |
 | Colby Frey | ColbyFrey |
-| Jeffrey Gu | drunkNH |
+| Jeffrey Gu | jefgu |
 
